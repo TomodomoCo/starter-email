@@ -1,0 +1,13 @@
+# Compiled files and dependencies
+dist/
+vendor/
+node_modules/
+bower_components/
+src/views/.cache/
+
+# Hidden files, caches, and misc.
+.sass-cache
+.DS_Store
+cache
+.cache
+npm-debug.log

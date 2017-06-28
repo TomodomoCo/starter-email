@@ -1,0 +1,29 @@
+table {
+	&.body {
+		background: white;
+		height: 100%;
+		width: 100%;
+	}
+
+	&.container {
+		background: white;
+		width: 550px;
+		margin: 0 auto;
+		Margin: 0 auto;
+		text-align: inherit;
+	}
+
+	&.row {
+		padding: 0;
+		width: 100%;
+		position: relative;
+	}
+
+	&.spacer {
+		width: 100%;
+
+		td {
+			mso-line-height-rule: exactly;
+		}
+	}
+}
